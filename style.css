@@ -1,6 +1,7 @@
 body{
     font-family: Overpass;
-    font-size: 20px;
+    font-size: 16px;
+    background-color: #FDF7FA;
 }
 table{
     border-collapse: separate;
@@ -20,28 +21,31 @@ td{
 #edu{
     margin-left: 100px;
     margin-right: 100px;
-    font-size: 20px;
-
+    font-size: 16px;
+    background-image: linear-gradient(#FDF7FA,#DDFFF7);
 }
 #about
 {
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 5%;
-    background-color: #F1F7EE;
+    background-image: linear-gradient(#DDFFF7,#FDF7FA);
 }
 
 #career{
     margin-left: 100px;
     margin-right: 100px;
+    background-color: #F6FFF8;
 }
 
 #skills{
     margin-left: 100px;
     margin-right: 100px;
+    background-color: #F6FFF8;
 }
 
 #Interests{
     margin-left: 100px;
     margin-right: 100px;
+    background-image: linear-gradient(#DDFFF7,#FDF7FA);
 }
